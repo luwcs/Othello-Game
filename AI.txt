@@ -1,0 +1,22 @@
+1. Did you attempt to make your computer player very smart -- i.e., do something more clever
+than just pick a random legal move?
+
+Yes, I made my computer player more clever than just pick a random legal move.
+
+2. If so, were you able to accomplish this? Is your computer player as smart as you would like?
+
+Yes, I accomplished this and it is as smart as I would like.
+
+3. How did you determine which piece to play next? Tell us about your “pick next move” algorithm
+
+My AI would caculate the maximum number of tiles that it could flip in those valid moves, and
+then pick that most "valuable position" as next move.
+
+4. How often did your computer program beat you, or your friends, or whoever tested it out for you?
+
+Ninety percent of time that I would lose the game.
+
+5. How would you improve it in the future?
+
+I would like to scan the corners of the board first, if there has any legal move, lay down a tile on it.
+Else apply my current strategies.
