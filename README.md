@@ -3,7 +3,7 @@ Othello game written in python run on the Processing platform
 
 
 ## AI play with you
-Implemented Greedy algorithms AI strategy. 
+Implemented Minimax algorithms AI strategy. 
 Can you beat it?
 
 ## Video Walkthrough
